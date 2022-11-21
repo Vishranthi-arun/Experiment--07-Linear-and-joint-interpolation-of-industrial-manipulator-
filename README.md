@@ -38,19 +38,9 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 ### Program : 
 DART studio screen shots for linear interpolation 
 
-![robo 1](https://user-images.githubusercontent.com/93427278/203120567-9f4133d7-48c3-4951-a96c-751565b27a99.jpg)
-
-
-
-
-
-
-
 
 DART studio screen shots for joint interpolation 
-
-
-
+![robo 1](https://user-images.githubusercontent.com/93427278/203120567-9f4133d7-48c3-4951-a96c-751565b27a99.jpg)
 
 
 
